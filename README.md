@@ -1,2 +1,1 @@
-# Bad-Poem
-This is a repo for my poem
+Homework wk1 Hubble space telescope card
